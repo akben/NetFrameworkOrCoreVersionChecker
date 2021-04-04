@@ -1,0 +1,10 @@
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.exe
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.pdb
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csprojAssemblyReference.cache
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csproj.CoreCompileInputs.cache
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.exe
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.pdb
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\System.Management.Automation.dll
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\System.Management.Automation.xml
+C:\Users\ta800344\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csproj.CopyComplete
