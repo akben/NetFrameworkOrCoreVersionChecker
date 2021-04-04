@@ -1,2 +1,2 @@
 # NetFrameworkOrCoreVersionChecker
-net framework version and .net core version check  with 
+net framework runitme version and .net core version runtime/sdk check 
